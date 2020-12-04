@@ -1,0 +1,14 @@
+
+- git tag -a 4b7ef65 -m "BARRUZ-VERGARA-paso5"
+- git merge BARRUZ-VERGARA
+Updating 5a43503..d8acb2f
+Fast-forward
+ respuestas/ejercicio1.4.txt | 4 ++++
+ respuestas/ejericio1.6.txt  | 2 ++
+ 2 files changed, 6 insertions(+)
+ create mode 100644 respuestas/ejercicio1.4.txt
+ create mode 100644 respuestas/ejericio1.6.txt
+
+- d8acb2f (HEAD -> master, tag: 4b7ef65, BARRUZ-VERGARA) Añadida respuestas ejercicio 1.6
+4b7ef65 Añadida respuestas ejercicio 1.4.
+5a43503 examen
