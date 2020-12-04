@@ -1,0 +1,4 @@
+
+- git status para mostar el estado del repositorio.
+
+- git log --oneline para mostrar el historial de cambios.
